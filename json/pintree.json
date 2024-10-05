@@ -48,6 +48,13 @@
                 "title": "Emoji大全 | Emoji表情符号词典 📓 | EmojiAll中文官方网站",
                 "icon": "https://logo.clearbit.com/www.emojiall.com",
                 "url": "https://www.emojiall.com/zh-hans"
+              },
+              {
+                "type": "link",
+                "addDate": 1728125728116,
+                "title": "盘搜VIP - 人工亲测精选的网盘搜索工具导航 - pansou.vip",
+                "icon": "https://logo.clearbit.com/www.pansou.vip",
+                "url": "https://www.pansou.vip/"
               }
             ]
           },
@@ -123,10 +130,10 @@
           },
           {
             "type": "link",
-            "addDate": 1629975101527,
-            "title": "Sakura Frp — 免费内网穿透_免费端口映射_高速_高防节点_不限流量_Minecraft我的世界_微信开发调试_群辉NAS_无需公网_免备案",
-            "icon": "https://logo.clearbit.com/www.natfrp.com",
-            "url": "https://www.natfrp.com/"
+            "addDate": 1718539171614,
+            "title": "Qt | 软件开发全周期的各阶段工具",
+            "icon": "https://logo.clearbit.com/www.qt.io",
+            "url": "https://www.qt.io/zh-cn/"
           },
           {
             "type": "link",
@@ -141,20 +148,6 @@
             "title": "可灵 AI - 新一代 AI 创意生产力平台",
             "icon": "https://logo.clearbit.com/klingai.kuaishou.com",
             "url": "https://klingai.kuaishou.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1726375497352,
-            "title": "VLC：官方网站 - 全平台的自由多媒体解决方案！ - VideoLAN",
-            "icon": "https://logo.clearbit.com/www.videolan.org",
-            "url": "https://www.videolan.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1726376095871,
-            "title": "Codec Guide: K-Lite Codec Pack - For Windows 11 / 10 / 8.1 / 7",
-            "icon": "https://logo.clearbit.com/www.codecguide.com",
-            "url": "https://www.codecguide.com/"
           }
         ]
       },
@@ -473,13 +466,6 @@
           },
           {
             "type": "link",
-            "addDate": 1721395031213,
-            "title": "EasyConnect",
-            "icon": "https://logo.clearbit.com/vpn.nankai.edu.cn",
-            "url": "https://vpn.nankai.edu.cn/portal/#!/service"
-          },
-          {
-            "type": "link",
             "addDate": 1703300134325,
             "title": "注销页",
             "icon": "https://logo.clearbit.com/202.113.18.106",
@@ -592,6 +578,27 @@
           },
           {
             "type": "link",
+            "addDate": 1727591665519,
+            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
+            "icon": "https://logo.clearbit.com/zh.singlelogin.re",
+            "url": "https://zh.singlelogin.re/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727678450362,
+            "title": "Overleaf, Online LaTeX Editor",
+            "icon": "https://logo.clearbit.com/www.overleaf.com",
+            "url": "https://www.overleaf.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727591970565,
+            "title": "维基百科，自由的百科全书",
+            "icon": "https://logo.clearbit.com/zh.wikipedia.org",
+            "url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
+          },
+          {
+            "type": "link",
             "addDate": 1706445311270,
             "title": "公众号",
             "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
@@ -645,6 +652,13 @@
             "title": "阳光高考_教育部高校招生阳光工程指定平台",
             "icon": "https://logo.clearbit.com/gaokao.chsi.com.cn",
             "url": "https://gaokao.chsi.com.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727866528746,
+            "title": "NodeFree | SSR/V2ray/Clash免费节点",
+            "icon": "https://logo.clearbit.com/nodefree.org",
+            "url": "https://nodefree.org/"
           }
         ]
       },
@@ -793,13 +807,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1718539171614,
-                "title": "Qt | 软件开发全周期的各阶段工具",
-                "icon": "https://logo.clearbit.com/www.qt.io",
-                "url": "https://www.qt.io/zh-cn/"
-              },
-              {
-                "type": "link",
                 "addDate": 1718636238924,
                 "title": "VMware Workstation Pro",
                 "icon": "https://logo.clearbit.com/support.broadcom.com",
@@ -893,6 +900,13 @@
           },
           {
             "type": "link",
+            "addDate": 1727510890878,
+            "title": "爱编程的大丙 - 知识分享",
+            "icon": "https://logo.clearbit.com/subingwen.cn",
+            "url": "https://subingwen.cn/"
+          },
+          {
+            "type": "link",
             "addDate": 1694334212349,
             "title": "黑马程序员官网-IT培训机构|java培训|前端培训|python培训|大数据培训",
             "icon": "https://logo.clearbit.com/www.itheima.com",
@@ -925,13 +939,6 @@
             "title": "USTC Open Source Software Mirror",
             "icon": "https://logo.clearbit.com/mirrors.ustc.edu.cn",
             "url": "https://mirrors.ustc.edu.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727510890878,
-            "title": "爱编程的大丙 - 知识分享",
-            "icon": "https://logo.clearbit.com/subingwen.cn",
-            "url": "https://subingwen.cn/"
           }
         ]
       },
@@ -940,6 +947,69 @@
         "addDate": 1704355373179,
         "title": "工具",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1728125799616,
+            "title": "软件",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1697016175988,
+                "title": "Daniel's XL Toolbox - Daniel's XL Toolbox",
+                "icon": "https://logo.clearbit.com/www.xltoolbox.net",
+                "url": "https://www.xltoolbox.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693289985054,
+                "title": "图吧工具箱 - 最纯净的硬件工具箱",
+                "icon": "https://logo.clearbit.com/www.tbtool.cn",
+                "url": "http://www.tbtool.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722918057700,
+                "title": "微PE工具箱 - 超好用的装机维护工具",
+                "icon": "https://logo.clearbit.com/www.wepe.com.cn",
+                "url": "https://www.wepe.com.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1707725182897,
+                "title": "瓦特工具箱(Steam++官网) - Watt Toolkit",
+                "icon": "https://logo.clearbit.com/steampp.net",
+                "url": "https://steampp.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1629975101527,
+                "title": "Sakura Frp — 免费内网穿透_免费端口映射_高速_高防节点_不限流量_Minecraft我的世界_微信开发调试_群辉NAS_无需公网_免备案",
+                "icon": "https://logo.clearbit.com/www.natfrp.com",
+                "url": "https://www.natfrp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726375497352,
+                "title": "VLC：官方网站 - 全平台的自由多媒体解决方案！ - VideoLAN",
+                "icon": "https://logo.clearbit.com/www.videolan.org",
+                "url": "https://www.videolan.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726376095871,
+                "title": "Codec Guide: K-Lite Codec Pack - For Windows 11 / 10 / 8.1 / 7",
+                "icon": "https://logo.clearbit.com/www.codecguide.com",
+                "url": "https://www.codecguide.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728093983817,
+                "title": "voidtools",
+                "icon": "https://logo.clearbit.com/www.voidtools.com",
+                "url": "https://www.voidtools.com/zh-cn/"
+              }
+            ]
+          },
           {
             "type": "folder",
             "addDate": 1726144586984,
@@ -951,13 +1021,6 @@
                 "title": "测速网 - 专业测网速, 网速测试, 宽带提速, 游戏测速, 直播测速, 5G测速, 物联网监测 - SpeedTest.cn",
                 "icon": "https://logo.clearbit.com/www.speedtest.cn",
                 "url": "https://www.speedtest.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1707725182897,
-                "title": "瓦特工具箱(Steam++官网) - Watt Toolkit",
-                "icon": "https://logo.clearbit.com/steampp.net",
-                "url": "https://steampp.net/"
               },
               {
                 "type": "link",
@@ -1068,24 +1131,10 @@
           },
           {
             "type": "link",
-            "addDate": 1697016175988,
-            "title": "Daniel's XL Toolbox - Daniel's XL Toolbox",
-            "icon": "https://logo.clearbit.com/www.xltoolbox.net",
-            "url": "https://www.xltoolbox.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1693289985054,
-            "title": "图吧工具箱 - 最纯净的硬件工具箱",
-            "icon": "https://logo.clearbit.com/www.tbtool.cn",
-            "url": "http://www.tbtool.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1722918057700,
-            "title": "微PE工具箱 - 超好用的装机维护工具",
-            "icon": "https://logo.clearbit.com/www.wepe.com.cn",
-            "url": "https://www.wepe.com.cn/"
+            "addDate": 1727675088666,
+            "title": "NEXT, ITELLYOU",
+            "icon": "https://logo.clearbit.com/next.itellyou.cn",
+            "url": "https://next.itellyou.cn/"
           }
         ]
       },
@@ -1109,6 +1158,13 @@
         "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
         "icon": "https://logo.clearbit.com/www.bilibili.com",
         "url": "https://www.bilibili.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727520723092,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/njdldkl666699.github.io",
+        "url": "https://njdldkl666699.github.io/pintree/"
       }
     ]
   }
