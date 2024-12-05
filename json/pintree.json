@@ -477,13 +477,6 @@
             "title": "南开登录 · GitLab",
             "icon": "https://logo.clearbit.com/10.10.1.209",
             "url": "http://10.10.1.209/users/sign_in"
-          },
-          {
-            "type": "link",
-            "addDate": 1723197044562,
-            "title": "南开BT站",
-            "icon": "https://logo.clearbit.com/bt.nankai.edu.cn",
-            "url": "http://bt.nankai.edu.cn/"
           }
         ]
       },
@@ -524,6 +517,13 @@
                 "title": "学堂在线 - 精品在线课程学习平台",
                 "icon": "https://logo.clearbit.com/www.xuetangx.com",
                 "url": "https://www.xuetangx.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728729481278,
+                "title": "易课堂 - 首页",
+                "icon": "https://logo.clearbit.com/www.cipeke.com",
+                "url": "https://www.cipeke.com/"
               },
               {
                 "type": "link",
@@ -585,10 +585,24 @@
           },
           {
             "type": "link",
+            "addDate": 1728570533174,
+            "title": "draw.io",
+            "icon": "https://logo.clearbit.com/app.diagrams.net",
+            "url": "https://app.diagrams.net/"
+          },
+          {
+            "type": "link",
             "addDate": 1727678450362,
             "title": "Overleaf, Online LaTeX Editor",
             "icon": "https://logo.clearbit.com/www.overleaf.com",
             "url": "https://www.overleaf.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728634607570,
+            "title": "Equation Editor for online mathematics - create, integrate and download",
+            "icon": "https://logo.clearbit.com/editor.codecogs.com",
+            "url": "https://editor.codecogs.com/"
           },
           {
             "type": "link",
@@ -655,10 +669,10 @@
           },
           {
             "type": "link",
-            "addDate": 1727866528746,
-            "title": "NodeFree | SSR/V2ray/Clash免费节点",
-            "icon": "https://logo.clearbit.com/nodefree.org",
-            "url": "https://nodefree.org/"
+            "addDate": 1731658278300,
+            "title": "中国共产党第二十届中央委员会第三次全体会议公报__中国政府网",
+            "icon": "https://logo.clearbit.com/www.gov.cn",
+            "url": "https://www.gov.cn/yaowen/liebiao/202407/content_6963409.htm"
           }
         ]
       },
@@ -741,6 +755,62 @@
                 "title": "Inno Setup入门",
                 "icon": "https://logo.clearbit.com/www.360doc.com",
                 "url": "http://www.360doc.com/userhome/4221543"
+              },
+              {
+                "type": "link",
+                "addDate": 1729131283478,
+                "title": "64位时间戳实现-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/xinghongduo/article/details/9388633"
+              },
+              {
+                "type": "link",
+                "addDate": 1729577117420,
+                "title": "grep之字符串搜索算法Boyer-Moore由浅入深（比KMP快3-5倍） - Alexia(minmin) - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/lanxuezaipiao/p/3452579.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1731404333092,
+                "title": "【C++】AVL树-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_74012727/article/details/142699182"
+              },
+              {
+                "type": "link",
+                "addDate": 1732361085760,
+                "title": "【数据结构】AVL树的删除（解析有点东西哦）_avl树删除节点-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Shun_Hua/article/details/132917187"
+              },
+              {
+                "type": "link",
+                "addDate": 1731996012753,
+                "title": "【C++】红黑树_c++红黑树-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_74012727/article/details/142968896?spm=1001.2014.3001.5502"
+              },
+              {
+                "type": "link",
+                "addDate": 1732019799762,
+                "title": "目前最详细的红黑树原理分析（大量图片+过程推导！！！） - 西*风 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/yinbiao/p/10732600.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1732176555572,
+                "title": "B树与B+树的原理剖析与C++代码实现 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/699792586"
+              },
+              {
+                "type": "link",
+                "addDate": 1732286071557,
+                "title": "C++(数据结构与算法):53---平衡搜索树之B-树_51CTO博客_数据结构树的算法",
+                "icon": "https://logo.clearbit.com/blog.51cto.com",
+                "url": "https://blog.51cto.com/u_15346415/5222005"
               }
             ]
           },
@@ -842,10 +912,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1727081776516,
+                "addDate": 1729836385198,
                 "title": "Inno Setup",
                 "icon": "https://logo.clearbit.com/jrsoftware.org",
-                "url": "https://jrsoftware.org/isinfo.php#features"
+                "url": "https://jrsoftware.org/isinfo.php"
               }
             ]
           },
@@ -855,6 +925,13 @@
             "title": "cppreference.com",
             "icon": "https://logo.clearbit.com/zh.cppreference.com",
             "url": "https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5"
+          },
+          {
+            "type": "link",
+            "addDate": 1729599017026,
+            "title": "Overview (Java SE 21 & JDK 21)",
+            "icon": "https://logo.clearbit.com/",
+            "url": "file:///F:/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99/Java/jdk-21.0.5_doc-all/api/index.html"
           },
           {
             "type": "link",
@@ -886,6 +963,13 @@
           },
           {
             "type": "link",
+            "addDate": 1694334212349,
+            "title": "黑马程序员官网-IT培训机构|java培训|前端培训|python培训|大数据培训",
+            "icon": "https://logo.clearbit.com/www.itheima.com",
+            "url": "https://www.itheima.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1721373867038,
             "title": "主页 - 面试鸭刷题神器",
             "icon": "https://logo.clearbit.com/www.mianshiya.com",
@@ -900,17 +984,10 @@
           },
           {
             "type": "link",
-            "addDate": 1727510890878,
-            "title": "爱编程的大丙 - 知识分享",
-            "icon": "https://logo.clearbit.com/subingwen.cn",
-            "url": "https://subingwen.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1694334212349,
-            "title": "黑马程序员官网-IT培训机构|java培训|前端培训|python培训|大数据培训",
-            "icon": "https://logo.clearbit.com/www.itheima.com",
-            "url": "https://www.itheima.com/"
+            "addDate": 1729350777492,
+            "title": "TIOBE Index - TIOBE",
+            "icon": "https://logo.clearbit.com/www.tiobe.com",
+            "url": "https://www.tiobe.com/tiobe-index/"
           },
           {
             "type": "link",
@@ -952,13 +1029,6 @@
             "addDate": 1728125799616,
             "title": "软件",
             "children": [
-              {
-                "type": "link",
-                "addDate": 1697016175988,
-                "title": "Daniel's XL Toolbox - Daniel's XL Toolbox",
-                "icon": "https://logo.clearbit.com/www.xltoolbox.net",
-                "url": "https://www.xltoolbox.net/"
-              },
               {
                 "type": "link",
                 "addDate": 1693289985054,
@@ -1007,6 +1077,27 @@
                 "title": "voidtools",
                 "icon": "https://logo.clearbit.com/www.voidtools.com",
                 "url": "https://www.voidtools.com/zh-cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728647113073,
+                "title": "ArcTime Pro跨平台字幕软件 | Arctime字幕软件",
+                "icon": "https://logo.clearbit.com/arctime.cn",
+                "url": "https://arctime.cn/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1729429919889,
+                "title": "Snipaste - 截图 + 贴图",
+                "icon": "https://logo.clearbit.com/zh.snipaste.com",
+                "url": "https://zh.snipaste.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697016175988,
+                "title": "Daniel's XL Toolbox - Daniel's XL Toolbox",
+                "icon": "https://logo.clearbit.com/www.xltoolbox.net",
+                "url": "https://www.xltoolbox.net/"
               }
             ]
           },
@@ -1045,10 +1136,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1706503477138,
-                "title": "就是加速 用户操作演示面板",
-                "icon": "https://logo.clearbit.com/www.94speed.com",
-                "url": "https://www.94speed.com/"
+                "addDate": 1728879445644,
+                "title": "Torrent downloads and distributions for IP 117.131.219.12",
+                "icon": "https://logo.clearbit.com/iknowwhatyoudownload.com",
+                "url": "https://iknowwhatyoudownload.com/en/peer/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727866528746,
+                "title": "NodeFree | SSR/V2ray/Clash免费节点",
+                "icon": "https://logo.clearbit.com/nodefree.org",
+                "url": "https://nodefree.org/"
               }
             ]
           },
